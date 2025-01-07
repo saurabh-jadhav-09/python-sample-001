@@ -1,6 +1,7 @@
 #!/bin/bash
 set -e
 
+
 # Pull the Docker image from Docker Hub
 docker pull saurabh9jadhav/python-sample-001:latest
 
